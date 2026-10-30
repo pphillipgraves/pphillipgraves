@@ -1,14 +1,13 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=football-slop&style=flat-square&color=0D1117&label=_soldiers_)
+![](https://komarev.com/ghpvc/?username=football-slop&style=flat-square&color=0D1117&label=_shadowcomp_soldiers_)
 
 
 
-wip
+<img width="1200" height="523" alt="Untitled120_20261030190239 (2)" src="https://github.com/user-attachments/assets/0669b3d4-f465-4f43-a357-6842633e3ed8" />
 
-
-
+shot in de head rip
 <!--
 **kvzanaokiji/kvzanaokiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
